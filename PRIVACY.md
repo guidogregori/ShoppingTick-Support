@@ -1,6 +1,6 @@
 # Privacy · ShoppingTick
 
-Aggiornamento / Updated: 2026-09-06 · Prototipo / Prototype 0.1.3
+Aggiornamento / Updated: 2026-09-06 · Prototipo / Prototype 0.1.4
 
 ## Italiano
 
