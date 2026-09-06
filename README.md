@@ -9,7 +9,7 @@ ShoppingTick è una semplice lista della spesa per gli occhiali Even G2, con com
 ## Italiano
 
 - Aggiungi prodotti dal telefono oppure incolla da qualsiasi testo, un prodotto per riga, poi premi **Aggiungi alla lista**. Il modulo indica quanti prodotti riconosce e conferma l’aggiunta.
-- **Archivio:** conserva i prodotti inseriti anche dopo la rimozione dalla lista. Cerca un prodotto e premi Aggiungi per riutilizzarlo. Evita doppioni già da acquistare e chiede conferma per ripristinare un prodotto acquistato. La × nell’archivio rimuove soltanto la voce archiviata.
+- **Archivio:** conserva i prodotti inseriti anche dopo la rimozione dalla lista. Cerca un prodotto e premi Aggiungi per riutilizzarlo. Evita doppioni già da acquistare e riporta subito da acquistare i prodotti acquistati, senza conferma. La × nell’archivio rimuove soltanto la voce archiviata.
 - Gli occhiali mostrano i contatori **Da Acquistare (X)** e **Acquistati (X)** e inizialmente solo i prodotti da acquistare.
 - Scorri per selezionare; doppio tap per spuntare. Una linea separa i contatori dalla lista; l’ultima riga ricorda i gesti per spuntare e aprire il menu.
 - Tap + tieni apre il menu: **Mostra tutti** ordina prima i prodotti da acquistare, poi quelli acquistati. Lo stesso menu permette di tornare ai soli prodotti da acquistare.
@@ -21,7 +21,7 @@ Il testo importato è una copia, senza sincronizzazione con l’originale. Le sp
 ## English
 
 - Add products on your phone or paste from any text, one product per line, then press **Add to list**. The form shows how many products it recognizes and confirms the addition.
-- **Archive:** keeps products you enter even after removal from the list. Search for a product and press Add to reuse it. Products already to buy are not duplicated; purchased products require confirmation before restoring. The × in the archive removes only the archived entry.
+- **Archive:** keeps products you enter even after removal from the list. Search for a product and press Add to reuse it. Products already to buy are not duplicated; purchased products return to To Buy immediately, without confirmation. The × in the archive removes only the archived entry.
 - The glasses show **To Buy (X)** and **Purchased (X)** counters and initially display only products to buy.
 - Swipe to select; double tap to mark purchased. A divider separates the counters from the list, and the last line explains how to tick products and open the menu.
 - Tap and hold opens the menu: **Show all** groups products to buy first, followed by purchased products. Use the same menu to return to products to buy only.
@@ -32,7 +32,7 @@ Imported text is a copy, with no live sync to its source. Existing checkmarks ar
 
 ## Stato / Status
 
-Versione / Version: **0.1.4 prototype**. Requires Even Hub SDK 0.0.14 and Even Realities app 2.2.9 or later. Hardware validation and store review are pending. Gestures may change before public release.
+Versione / Version: **0.1.5 prototype**. Requires Even Hub SDK 0.0.14 and Even Realities app 2.2.9 or later. Hardware validation and store review are pending. Gestures may change before public release.
 
 ## Supporto / Support
 
