@@ -1,6 +1,6 @@
 # Privacy · ShoppingTick
 
-Aggiornamento / Updated: 2026-09-06 · Versione / Version 0.2.1
+Aggiornamento / Updated: 2026-09-06 · Versione / Version 0.2.2
 
 ## Italiano
 
