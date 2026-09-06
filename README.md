@@ -4,7 +4,7 @@
 
 **La spesa, a colpo d’occhio. / Your shopping list, a glance and a tick.**
 
-ShoppingTick è una semplice lista della spesa per gli occhiali Even G2, con companion all'interno di Even Hub. Prototipo in sviluppo, non ancora pubblicato nell'Hub.
+ShoppingTick è una semplice lista della spesa per gli occhiali Even G2, con companion all'interno di Even Hub. Versione 0.2.0 preparata per la pubblicazione su Even Hub.
 
 ## Italiano
 
@@ -38,7 +38,7 @@ Imported text is a copy, with no live sync to its source. Existing checkmarks ar
 
 ## Stato / Status
 
-Versione / Version: **0.1.9 prototype**. Requires Even Hub SDK 0.0.14 and Even Realities app 2.2.9 or later. Hardware validation and store review are pending. Gestures may change before public release.
+Versione / Version: **0.2.0**. Requires Even Hub SDK 0.0.14 and Even Realities app 2.2.9 or later. Hardware validation and store review are pending. Gestures may change before public release.
 
 ## Supporto / Support
 
