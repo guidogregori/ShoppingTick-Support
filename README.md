@@ -4,7 +4,7 @@
 
 **La spesa, a colpo d’occhio. / Your shopping list, a glance and a tick.**
 
-ShoppingTick è una semplice lista della spesa per gli occhiali Even G2, con companion all'interno di Even Hub. Versione 0.2.0 preparata per la pubblicazione su Even Hub.
+ShoppingTick è una semplice lista della spesa per gli occhiali Even G2, con companion all'interno di Even Hub. Versione 0.2.1 preparata per la pubblicazione su Even Hub.
 
 ## Italiano
 
@@ -14,6 +14,7 @@ La companion ha tre sezioni distinte: **La tua lista**, **Incolla una lista** e 
 - **Archivio:** conserva i prodotti inseriti anche dopo la rimozione dalla lista. Cerca un prodotto e premi Aggiungi per riutilizzarlo. Evita doppioni già da acquistare e riporta subito da acquistare i prodotti acquistati, senza conferma. La × nell’archivio rimuove soltanto la voce archiviata.
 - Nella Home degli occhiali, tap su **Avvia Spesa e visualizza lista** apre la lista; doppio tap apre l’uscita di sistema. Le istruzioni ricordano dove inserire i prodotti. Il menu della lista offre **Torna alla Home**.
 - Nella lista gli occhiali mostrano i contatori **Da Acquistare (X)** e **Acquistati (X)** e inizialmente solo i prodotti da acquistare.
+- Fino a cinque prodotti per pagina, con **Pagina X di X** sopra la legenda. Il numero di pagine si aggiorna quando spunti o cambi vista.
 - Scorri per selezionare; doppio tap per spuntare. Una linea separa i contatori dalla lista; l’ultima riga ricorda i gesti per spuntare e aprire il menu.
 - Tap + tieni apre il menu: **Mostra tutti** ordina prima i prodotti da acquistare, poi quelli acquistati. Lo stesso menu permette di tornare ai soli prodotti da acquistare.
 - Cerchio vuoto: da acquistare. Cerchio barrato: acquistato. In “Mostra tutti”, doppio tap su un prodotto acquistato chiede conferma prima di riportarlo in Da Acquistare. Annulla è la scelta iniziale: scorri su Conferma e fai doppio tap per ripristinare.
@@ -29,6 +30,7 @@ The companion has three separate sections: **Your list**, **Paste a list** and *
 - **Archive:** keeps products you enter even after removal from the list. Search for a product and press Add to reuse it. Products already to buy are not duplicated; purchased products return to To Buy immediately, without confirmation. The × in the archive removes only the archived entry.
 - On the glasses Home screen, tap **Start shopping and view list** to open your list; double tap opens the system exit prompt. Instructions explain where to add products. The list menu includes **Back to Home**.
 - In the list, the glasses show **To Buy (X)** and **Purchased (X)** counters and initially display only products to buy.
+- Up to five products per page, with **Page X of X** above the gesture legend. Page counts update when you tick products or change views.
 - Swipe to select; double tap to mark purchased. A divider separates the counters from the list, and the last line explains how to tick products and open the menu.
 - Tap and hold opens the menu: **Show all** groups products to buy first, followed by purchased products. Use the same menu to return to products to buy only.
 - Empty circle: to buy. Slashed circle: purchased. In “Show all”, double tapping a purchased product asks for confirmation before moving it back to To Buy. Cancel is selected initially: swipe to Confirm and double tap to restore.
@@ -38,7 +40,7 @@ Imported text is a copy, with no live sync to its source. Existing checkmarks ar
 
 ## Stato / Status
 
-Versione / Version: **0.2.0**. Requires Even Hub SDK 0.0.14 and Even Realities app 2.2.9 or later. Hardware validation and store review are pending. Gestures may change before public release.
+Versione / Version: **0.2.1**. Requires Even Hub SDK 0.0.14 and Even Realities app 2.2.9 or later. Hardware validation and store review are pending. Gestures may change before public release.
 
 ## Supporto / Support
 
