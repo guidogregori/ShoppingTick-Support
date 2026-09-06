@@ -1,10 +1,10 @@
-# Privacy · SpesaTick
+# Privacy · ShoppingTick
 
-Aggiornamento / Updated: 2026-09-06 · Prototipo / Prototype 0.1.0
+Aggiornamento / Updated: 2026-09-06 · Prototipo / Prototype 0.1.1
 
 ## Italiano
 
-SpesaTick salva prodotti, stato di acquisto e lingua sul dispositivo, tramite lo storage fornito dall'app Even Realities. L'anteprima nel browser usa lo storage locale del browser.
+ShoppingTick salva prodotti, stato di acquisto e lingua sul dispositivo, tramite lo storage fornito dall'app Even Realities. L'anteprima nel browser usa lo storage locale del browser.
 
 Questa versione non usa server dello sviluppatore, pubblicità, analytics né account aggiuntivi. Non accede direttamente ad Apple Notes: riceve soltanto il testo che scegli di incollare. I nomi dei prodotti vengono mostrati sul telefono e sugli occhiali associati attraverso Even Hub.
 
@@ -14,7 +14,7 @@ Le segnalazioni pubblicate nelle Issues di GitHub sono pubbliche: evita di inser
 
 ## English
 
-SpesaTick stores products, purchase status and language on your device using storage provided by the Even Realities app. The browser preview uses browser local storage.
+ShoppingTick stores products, purchase status and language on your device using storage provided by the Even Realities app. The browser preview uses browser local storage.
 
 This version does not use developer-operated servers, advertising, analytics or additional accounts. It does not directly access Apple Notes: it receives only text you choose to paste. Product names are displayed on your phone and paired glasses through Even Hub.
 

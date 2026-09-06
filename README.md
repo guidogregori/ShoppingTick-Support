@@ -1,8 +1,8 @@
-# SpesaTick
+# ShoppingTick
 
 **La spesa, a colpo d’occhio. / Your shopping list at a glance.**
 
-SpesaTick è una semplice lista della spesa per gli occhiali Even G2, con companion all'interno di Even Hub. Prototipo in sviluppo, non ancora pubblicato nell'Hub.
+ShoppingTick è una semplice lista della spesa per gli occhiali Even G2, con companion all'interno di Even Hub. Prototipo in sviluppo, non ancora pubblicato nell'Hub.
 
 ## Italiano
 
@@ -28,11 +28,11 @@ Imported text is a copy, with no live sync to shared Apple Notes. Existing Notes
 
 ## Stato / Status
 
-Versione / Version: **0.1.0 prototype**. Requires Even Hub SDK 0.0.14 and Even Realities app 2.2.9 or later. Hardware validation and store review are pending. Gestures may change before public release.
+Versione / Version: **0.1.1 prototype**. Requires Even Hub SDK 0.0.14 and Even Realities app 2.2.9 or later. Hardware validation and store review are pending. Gestures may change before public release.
 
 ## Supporto / Support
 
-Apri una segnalazione nelle [Issues](https://github.com/guidogregori/SpesaTick-Support/issues), indicando versione dell'app, telefono e firmware degli occhiali. Non includere dati personali o liste private.
+Apri una segnalazione nelle [Issues](https://github.com/guidogregori/ShoppingTick-Support/issues), indicando versione dell'app, telefono e firmware degli occhiali. Non includere dati personali o liste private.
 
 Open an issue with your app version, phone model and glasses firmware. Do not include personal information or private shopping lists.
 
