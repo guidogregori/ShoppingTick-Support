@@ -8,6 +8,8 @@ ShoppingTick è una semplice lista della spesa per gli occhiali Even G2, con com
 
 ## Italiano
 
+La companion ha tre sezioni distinte: **La tua lista**, **Incolla una lista** e **Archivio**.
+
 - Aggiungi prodotti dal telefono oppure incolla da qualsiasi testo, un prodotto per riga, poi premi **Aggiungi alla lista**. Il modulo indica quanti prodotti riconosce e conferma l’aggiunta.
 - **Archivio:** conserva i prodotti inseriti anche dopo la rimozione dalla lista. Cerca un prodotto e premi Aggiungi per riutilizzarlo. Evita doppioni già da acquistare e riporta subito da acquistare i prodotti acquistati, senza conferma. La × nell’archivio rimuove soltanto la voce archiviata.
 - Gli occhiali mostrano i contatori **Da Acquistare (X)** e **Acquistati (X)** e inizialmente solo i prodotti da acquistare.
@@ -19,6 +21,8 @@ ShoppingTick è una semplice lista della spesa per gli occhiali Even G2, con com
 Il testo importato è una copia, senza sincronizzazione con l’originale. Le spunte nel testo non sono importate: i nuovi prodotti partono da acquistare.
 
 ## English
+
+The companion has three separate sections: **Your list**, **Paste a list** and **Archive**.
 
 - Add products on your phone or paste from any text, one product per line, then press **Add to list**. The form shows how many products it recognizes and confirms the addition.
 - **Archive:** keeps products you enter even after removal from the list. Search for a product and press Add to reuse it. Products already to buy are not duplicated; purchased products return to To Buy immediately, without confirmation. The × in the archive removes only the archived entry.
@@ -32,7 +36,7 @@ Imported text is a copy, with no live sync to its source. Existing checkmarks ar
 
 ## Stato / Status
 
-Versione / Version: **0.1.5 prototype**. Requires Even Hub SDK 0.0.14 and Even Realities app 2.2.9 or later. Hardware validation and store review are pending. Gestures may change before public release.
+Versione / Version: **0.1.6 prototype**. Requires Even Hub SDK 0.0.14 and Even Realities app 2.2.9 or later. Hardware validation and store review are pending. Gestures may change before public release.
 
 ## Supporto / Support
 
