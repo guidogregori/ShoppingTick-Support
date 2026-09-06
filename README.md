@@ -38,7 +38,7 @@ Imported text is a copy, with no live sync to its source. Existing checkmarks ar
 
 ## Stato / Status
 
-Versione / Version: **0.1.7 prototype**. Requires Even Hub SDK 0.0.14 and Even Realities app 2.2.9 or later. Hardware validation and store review are pending. Gestures may change before public release.
+Versione / Version: **0.1.8 prototype**. Requires Even Hub SDK 0.0.14 and Even Realities app 2.2.9 or later. Hardware validation and store review are pending. Gestures may change before public release.
 
 ## Supporto / Support
 
