@@ -40,7 +40,7 @@ Imported text is a copy, with no live sync to its source. Existing checkmarks ar
 
 ## Stato / Status
 
-Versione / Version: **0.4.0**. Requires Even Hub SDK 0.0.14 and Even Realities app 2.2.9 or later. Version 0.2.2 was rejected. Version 0.4.0 is being validated and has not been resubmitted. All five languages have been visually checked in the official simulator; physical glasses validation remains separate.
+Versione / Version: **0.4.0**. Requires Even Hub SDK 0.0.14 and Even Realities app 2.2.9 or later. Version 0.3.0 is currently public. Version 0.4.0 and its updated description were submitted together on October 24, 2026 and are awaiting review. All five languages have been visually checked in the official simulator; physical glasses validation remains separate.
 
 ## Supporto / Support
 
