@@ -4,7 +4,7 @@
 
 **La spesa, a colpo d’occhio. / Your shopping list, a glance and a tick.**
 
-ShoppingTick è una semplice lista della spesa per gli occhiali Even G2, con companion all'interno di Even Hub. Versione 0.3.0 preparata per la pubblicazione su Even Hub.
+ShoppingTick è una semplice lista della spesa per gli occhiali Even G2, con companion all'interno di Even Hub. Versione 0.4.0 preparata per la pubblicazione su Even Hub.
 
 ## Italiano
 
@@ -18,7 +18,7 @@ La companion ha tre sezioni distinte: **La tua lista**, **Incolla una lista** e 
 - Scorri per selezionare; tap singolo per spuntare. Una linea separa i contatori dalla lista; l’ultima riga ricorda i gesti per spuntare e aprire il menu.
 - Tap + tieni apre il menu: **Mostra tutti** ordina prima i prodotti da acquistare, poi quelli acquistati. Lo stesso menu permette di tornare ai soli prodotti da acquistare.
 - Cerchio vuoto: da acquistare. Cerchio barrato: acquistato. In “Mostra tutti”, tap singolo su un prodotto acquistato chiede conferma prima di riportarlo in Da Acquistare. Annulla è la scelta iniziale: scorri su Conferma e fai tap singolo per ripristinare.
-- Lingua selezionabile: italiano e inglese. Altre lingue potranno essere aggiunte.
+- Lingue selezionabili: italiano, inglese, francese, tedesco e spagnolo.
 
 Il testo importato è una copia, senza sincronizzazione con l’originale. Le spunte nel testo non sono importate: i nuovi prodotti partono da acquistare.
 
@@ -34,13 +34,13 @@ The companion has three separate sections: **Your list**, **Paste a list** and *
 - Swipe to select; single tap to mark purchased. A divider separates the counters from the list, and the last line explains how to tick products and open the menu.
 - Tap and hold opens the menu: **Show all** groups products to buy first, followed by purchased products. Use the same menu to return to products to buy only.
 - Empty circle: to buy. Slashed circle: purchased. In “Show all”, single tapping a purchased product asks for confirmation before moving it back to To Buy. Cancel is selected initially: swipe to Confirm and single tap to restore.
-- Choose Italian or English. The app is designed to support more languages later.
+- Choose Italian, English, French, German or Spanish. Product names remain as entered.
 
 Imported text is a copy, with no live sync to its source. Existing checkmarks are not imported: new products start as To Buy.
 
 ## Stato / Status
 
-Versione / Version: **0.3.0**. Requires Even Hub SDK 0.0.14 and Even Realities app 2.2.9 or later. Version 0.2.2 was rejected. Version 0.3.0 is being validated and has not been resubmitted. Official simulator screenshots remain unresolved.
+Versione / Version: **0.4.0**. Requires Even Hub SDK 0.0.14 and Even Realities app 2.2.9 or later. Version 0.2.2 was rejected. Version 0.4.0 is being validated and has not been resubmitted. All five languages have been visually checked in the official simulator; physical glasses validation remains separate.
 
 ## Supporto / Support
 
